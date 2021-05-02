@@ -20,9 +20,9 @@ An attempt to develop an algorithm that optimizes the location of objects (calle
 ### Proposed Applications:
 - In general, any application that requires the distribution of resources within a limited range may benefit from this algorithm like this one. For example, this algorithm can help optimize the positions of…
   - surveillance drones used in disaster management endeavors like wildfire fighting.
-  - wireless-communication infrastructure like cell-towers.
+  - wireless-communication infrastructure like cell towers.
   - electrical substations
   - COVID-19 vaccination clinics
 
-Preliminary analysis reveals that the number of circles depends on the radius of the circle and density of the points.
+Cursory analysis reveals that the number of circles depends on the radius of the circle and density of the points.
 
