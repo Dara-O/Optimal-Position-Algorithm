@@ -5,7 +5,7 @@ An attempt to develop an algorithm that optimizes the location of objects (calle
 - **Server**: An object that distributes a resources or interacts in some way with other objects within a specified (circular) range.
 - **Node**  : An object that recieves a resources or requires some interaction.
 - **Radius**: The "distance" around a server that determines how far away nodes can be before they are no longer served by the server.
-- **Most connected object/node: The node that has the highest number of nodes within a specified radius. This radius is the same as the radius defined above.   
+- **Most connected object/node**: The node that has the highest number of nodes within a specified radius. This radius is the same as the radius defined above.   
 
 ### Demonstration
 39 Nodes, 9 Servers 
